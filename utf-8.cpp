@@ -41,7 +41,8 @@ int main() {
     runTest("Invalid sequence 1", bad1, false);
     runTest("Invalid sequence 2", bad2, false);
     runTest("Invalid sequence 3", bad3, false);
-
+a
     std::cout << "\nAll tests completed.\n";
     return 0;
 }
+
